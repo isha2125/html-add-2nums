@@ -1,0 +1,25 @@
+.adder{
+    background-color:rgb(55, 172, 180) ;
+    margin: 150px;
+    padding:50px;
+}
+
+nav{
+    position:absolute;
+    padding: 5px;
+    margin-right:auto;
+    margin-left: auto;
+    top: 0px;
+    
+
+}
+.heading{
+    font-style:italic;
+    font-size: 30px;
+    font-family:monospace;
+}
+p {
+    font-size: 20px;
+    font-style:italic;
+    font-family:monospace;
+}
